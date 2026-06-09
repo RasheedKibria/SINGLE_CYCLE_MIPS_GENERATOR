@@ -1,4 +1,5 @@
 #SINGLE_CYCLE_MIPS_GENERATOR
+
 Software Name: Single-Cycle MIPS Core Generator
 
 Purpose: Compiles a source code written in MIPS assembly language, and generates the RTL design of the 32-bit Single-Cycle MIPS core automatically
