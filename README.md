@@ -1,4 +1,4 @@
-#SINGLE_CYCLE_MIPS_GENERATOR
+# SINGLE_CYCLE_MIPS_GENERATOR
 
 Software Name: Single-Cycle MIPS Core Generator
 
